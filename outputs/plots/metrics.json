@@ -1,0 +1,18 @@
+{
+  "test_average_precision": 0.9824947331313383,
+  "chosen_threshold": {
+    "threshold": 0.9953199028968811,
+    "precision": 0.9005964214711729,
+    "recall": 0.806049822064057
+  },
+  "confusion_matrix_test": [
+    [
+      950324,
+      61
+    ],
+    [
+      704,
+      3304
+    ]
+  ]
+}
